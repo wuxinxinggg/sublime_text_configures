@@ -1,0 +1,14 @@
+[
+	{ "keys": [",","k","1"], "command": "token_style", "args": {"style_index": 0 } },
+	{ "keys": [",","k","2"], "command": "token_style", "args": {"style_index": 1 } },
+	{ "keys": [",","k","3"], "command": "token_style", "args": {"style_index": 2 } },
+	{ "keys": [",","k","4"], "command": "token_style", "args": {"style_index": 3 } },
+	{ "keys": [",","k","5"], "command": "token_style", "args": {"style_index": 4 } },
+
+	{ "keys": [",","k","u"], "command": "token_style_clear" },
+
+	{ "keys": [",","f"], "command": "show_overlay", "args": {"overlay": "goto", "text": "@"} },
+	{ "keys": [",","s"], "command": "show_panel", "args": {"panel": "find_in_files"} },
+	{ "keys": ["ctrl+k","ctrl+b"], "command": "toggle_side_bar"},
+	
+]
